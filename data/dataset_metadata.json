@@ -1,0 +1,37 @@
+{
+  "seed": 42,
+  "waves": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "n_adults": 29347,
+  "n_analytic": 23104,
+  "n_predictors": 16,
+  "predictors": [
+    "age",
+    "HE_BMI",
+    "HE_wc",
+    "HE_wt",
+    "HE_ht",
+    "N_EN",
+    "N_CHO",
+    "N_SUGAR",
+    "N_CHOL",
+    "sm_presnt",
+    "dr_month",
+    "pa_aerobic",
+    "L_BR_FQ",
+    "edu",
+    "ho_incm",
+    "D_1_1"
+  ],
+  "outcome_definition": "HbA1c>=6.5 | FPG>=126 | Dx | meds | insulin | KNHANES-dm",
+  "prevalence_pct": {
+    "Male": 19.051905190519054,
+    "Female": 13.498664631819915,
+    "Total": 15.902008310249307
+  }
+}

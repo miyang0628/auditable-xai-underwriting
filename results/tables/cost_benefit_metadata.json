@@ -1,0 +1,8 @@
+{
+  "premium_base": 12000000,
+  "horizon": 10,
+  "annual_premium": 1200,
+  "net_benefit_median_$K": 294.7304676004766,
+  "lossratio_median_pp": 2.7893679912543696,
+  "P_netbenefit_positive": 1.0
+}

@@ -1,0 +1,7 @@
+Dimension,Persona,DiCE_mean,SHAP_mean,t,p
+D3 Actionability,Medical Expert,1.88,1.78,0.7,0.486
+D3 Actionability,Insurance Specialist,1.92,1.9,0.2,0.844
+D3 Actionability,General Public,1.98,1.8,1.19,0.242
+D4 Readability,Medical Expert,3.98,4.03,-0.81,0.421
+D4 Readability,Insurance Specialist,4.05,4.08,n/a,n/a
+D4 Readability,General Public,3.95,4.3,n/a,n/a

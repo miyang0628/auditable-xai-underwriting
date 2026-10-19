@@ -1,0 +1,4 @@
+Scenario,Uptake,Efficacy,dL_per_case,Prevented_cases,Averted_claims_$K,Screening_cost_$K,Net_benefit_$K,LossRatio_improve_pp
+Conservative,0.1,0.15,8000,15.0,120.0,50.0,70.0,1.0
+Base,0.15,0.2,10000,30.0,300.0,50.0,250.0,2.5
+Optimistic,0.2,0.25,12000,50.0,600.0,50.0,550.0,5.0

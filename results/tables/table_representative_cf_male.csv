@@ -1,0 +1,19 @@
+Variable,Original,Best_CF
+age,69.0,69.0
+HE_BMI,21.83,21.83
+HE_wc,86.2,71.8
+HE_wt,64.2,64.2
+HE_ht,171.5,171.5
+N_EN,623.25,734.95
+N_CHO,107.52,107.52
+N_SUGAR,11.52,11.52
+N_CHOL,20.16,20.16
+sm_presnt,0.0,0.0
+dr_month,0.0,0.0
+pa_aerobic,0.0,0.0
+L_BR_FQ,1.0,1.0
+edu,3.0,3.0
+ho_incm,1.0,1.0
+D_1_1,5.0,5.0
+Predicted probability,0.529,0.19
+Risk reduction (pp),,33.9

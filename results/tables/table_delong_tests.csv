@@ -1,0 +1,13 @@
+Sex,Comparison,AUC_XGB,AUC_other,Delta,DeLong_p
+Male,XGBoost vs CatBoost,0.772,0.772,0.0,0.977
+Male,XGBoost vs LightGBM,0.772,0.768,0.004,0.273
+Male,XGBoost vs RandomForest,0.772,0.767,0.005,0.167
+Male,XGBoost vs ExtraTrees,0.772,0.766,0.006,0.297
+Male,XGBoost vs SVM,0.772,0.707,0.065,0.000
+Male,XGBoost vs NeuralNet,0.772,0.768,0.005,0.431
+Female,XGBoost vs CatBoost,0.821,0.821,-0.0,0.981
+Female,XGBoost vs LightGBM,0.821,0.819,0.003,0.244
+Female,XGBoost vs RandomForest,0.821,0.821,0.001,0.843
+Female,XGBoost vs ExtraTrees,0.821,0.814,0.007,0.117
+Female,XGBoost vs SVM,0.821,0.712,0.109,0.000
+Female,XGBoost vs NeuralNet,0.821,0.82,0.002,0.713

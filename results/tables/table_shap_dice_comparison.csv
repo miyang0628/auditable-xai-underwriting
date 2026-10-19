@@ -1,0 +1,3 @@
+Method,Provides_numeric_target,Mean_feature_overlap_Jaccard,Share_top_feature_immutable_age,Cases_with_actionable_target
+SHAP (attribution),No,0.115,1.0,0
+DiCE (counterfactual),Yes,ref,0.0,32

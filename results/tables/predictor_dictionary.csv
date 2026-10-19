@@ -1,0 +1,17 @@
+variable,description,dice_tier
+age,Age (years),immutable
+HE_BMI,Body mass index (kg/m^2),constrained
+HE_wc,Waist circumference (cm),constrained
+HE_wt,Body weight (kg),constrained
+HE_ht,Height (cm),immutable
+N_EN,Energy intake (kcal/day),actionable
+N_CHO,Carbohydrate intake (g/day),actionable
+N_SUGAR,Sugar intake (g/day),actionable
+N_CHOL,Cholesterol intake (mg/day),actionable
+sm_presnt,"Current smoker (1=yes,0=no)",actionable
+dr_month,"Monthly alcohol use (1=yes,0=no)",actionable
+pa_aerobic,"Meets aerobic activity guideline (1=yes,0=no)",actionable
+L_BR_FQ,Breakfast frequency (1=5-7/wk .. 4=0/wk),actionable
+edu,Education level (1=elementary..4=college+),immutable
+ho_incm,Household income quartile (1=lowest..4=highest),immutable
+D_1_1,Self-rated health (1=very good..5=very poor),immutable

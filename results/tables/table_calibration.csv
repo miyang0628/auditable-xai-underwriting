@@ -1,0 +1,5 @@
+Sex,Stage,Brier,ECE
+Male,Pre-calibration,0.132,0.01
+Male,Post-calibration,0.132,0.01
+Female,Pre-calibration,0.1,0.006
+Female,Post-calibration,0.1,0.007
